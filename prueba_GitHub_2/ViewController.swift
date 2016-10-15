@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-    // modoficación 1 
+    // modoficación 1 y 1 
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
